@@ -1,0 +1,22 @@
+--------------------------------------------------------------------
+
+
+factura A
+
+
+Productos totales
+Producto: Tablet Apple iPad Air, 
+
+Precio: $599.99, 
+
+Cantidad: 2
+
+
+Producto: Smartwatch Apple Watch Series 6, 
+
+Precio: $399.99, 
+
+Cantidad: 5
+
+
+ Total: $3199.9300000000003
